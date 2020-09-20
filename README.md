@@ -1,4 +1,4 @@
-# Store-Item-Demand-Forecasting-Challenge using Facebook Profret--by Priyanka Gupta
+# Store-Item-Demand-Forecasting-Challenge using Facebook Prophet--by Priyanka Gupta
 Exploratory data Analysis along with Time Series Forecasting
 
 Link of Kaggle Submission: https://www.kaggle.com/pg1007/time-series-analysis-prophet
