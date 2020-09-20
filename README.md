@@ -11,3 +11,4 @@ Firstly performed--> Explorative Data Analysis and find out how sales is depende
 Some store have high sales as compared to other whereas some item were popular on different stores.
 
 Some of the observations that can be viewed are:
+
